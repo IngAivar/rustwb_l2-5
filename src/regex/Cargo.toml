@@ -1,7 +1,6 @@
 [package]
-name = "rustwb_l2-5"
+name = "regex"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-regex = "1.10.6"
